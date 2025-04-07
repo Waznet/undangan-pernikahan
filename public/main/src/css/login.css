@@ -1,0 +1,50 @@
+/* src/css/login.css */
+
+body {
+  background-color: #f8f9fa;
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.card {
+  border-radius: 10px;
+  border: none;
+}
+
+.card-body {
+  border-radius: 10px;
+}
+
+.form-control:focus, .btn:focus {
+  box-shadow: 0 0 0 0.25rem rgba(108, 117, 125, 0.25);
+  border-color: #6c757d;
+}
+
+.btn-primary {
+  background-color: #5c636a;
+  border-color: #5c636a;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #4d545a;
+  border-color: #4d545a;
+}
+
+.toggle-password {
+  cursor: pointer;
+}
+
+.input-group-text {
+  background-color: #f8f9fa;
+}
+
+/* Animation for error message */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  10%, 30%, 50%, 70%, 90% { transform: translateX(-5px); }
+  20%, 40%, 60%, 80% { transform: translateX(5px); }
+}
+
+.shake {
+  animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+}
