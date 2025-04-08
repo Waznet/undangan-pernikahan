@@ -1,0 +1,131 @@
+
+    .love-story {
+        text-align: center;
+        padding: 60px 20px;
+        background-color: #fff9f9;
+        position: relative;
+        overflow: hidden;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+
+    .love-story h2 {
+        font-family: 'Sacramento', cursive;
+        font-size: 3rem;
+        margin-bottom: 30px;
+        color: #333;
+        font-weight: 400;
+    }
+
+    .love-story p.intro {
+        font-size: 16px;
+        max-width: 800px;
+        margin: 0 auto 50px;
+        line-height: 1.8;
+        color: #333;
+    }
+
+    .love-story-bg {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+        opacity: 0.3;
+        background-image: url('/main/src/assets/images/floral-bg.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+
+    .timeline-event {
+        margin-bottom: 80px;
+        position: relative;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .timeline-event:last-child {
+        margin-bottom: 40px;
+    }
+
+    .timeline-image {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 5px solid #fff;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        margin: 0 auto 20px;
+        display: block;
+        position: relative;
+        z-index: 2;
+    }
+
+    .floral-decor {
+        margin: 10px auto;
+        width: 80px;
+        height: 80px;
+        background-image: url('/main/src/assets/images/flower-decor.png');
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .timeline-event h3 {
+        font-size: 1.8rem;
+        margin: 20px 0 15px;
+        font-weight: 600;
+        color: #333;
+    }
+
+    .timeline-event p {
+        font-size: 16px;
+        max-width: 600px;
+        margin: 0 auto;
+        line-height: 1.8;
+        color: #333;
+    }
+
+    .love-story i.bx-heart {
+        color: #f8a5c2;
+        font-size: 2.5rem;
+        margin: 40px 0;
+        display: block;
+    }
+
+    /* Background floral corners */
+    .corner-top-left, .corner-top-right,
+    .corner-bottom-left, .corner-bottom-right {
+        position: absolute;
+        width: 150px;
+        height: 150px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        opacity: 0.8;
+        z-index: 0;
+    }
+
+    .corner-top-left {
+        top: 0;
+        left: 0;
+        background-image: url('/main/src/assets/images/flower-corner-tl.png');
+    }
+
+    .corner-top-right {
+        top: 0;
+        right: 0;
+        background-image: url('/main/src/assets/images/flower-corner-tr.png');
+    }
+
+    .corner-bottom-left {
+        bottom: 0;
+        left: 0;
+        background-image: url('/main/src/assets/images/flower-corner-bl.png');
+    }
+
+    .corner-bottom-right {
+        bottom: 0;
+        right: 0;
+        background-image: url('/main/src/assets/images/flower-corner-br.png');
+    }
