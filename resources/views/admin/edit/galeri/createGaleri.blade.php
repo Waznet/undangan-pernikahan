@@ -36,7 +36,7 @@
       <div class="row">
         <!-- Gambar 1 -->
         <div class="col-md-3 text-center mb-4 mt-3 image-card">
-          <img src="/dashboard/assets/img/photo/2.jpeg" alt="Preview" class="img-thumbnail mb-2" style="max-width: 100%;">
+          <img src="/main/src/assets/images/galeri1.jpg" alt="Preview" class="img-thumbnail mb-2" style="max-width: 100%;">
           <div>
             <button class="btn btn-danger btn-sm btn-hapus">
               <i class="bx bx-trash me-1"></i> Hapus
@@ -46,7 +46,7 @@
       
         <!-- Gambar 2 -->
         <div class="col-md-3 text-center mb-4 mt-3 image-card">
-          <img src="/dashboard/assets/img/photo/2.jpeg" alt="Preview" class="img-thumbnail mb-2" style="max-width: 100%;">
+          <img src="/main/src/assets/images/galeri2.jpg" alt="Preview" class="img-thumbnail mb-2" style="max-width: 100%;">
           <div>
             <button class="btn btn-danger btn-sm btn-hapus">
               <i class="bx bx-trash me-1"></i> Hapus
@@ -56,7 +56,7 @@
       
         <!-- Gambar 3 -->
         <div class="col-md-3 text-center mb-4 mt-3 image-card">
-          <img src="/dashboard/assets/img/photo/2.jpeg" alt="Preview" class="img-thumbnail mb-2" style="max-width: 100%;">
+          <img src="/main/src/assets/images/galeri3.jpg" alt="Preview" class="img-thumbnail mb-2" style="max-width: 100%;">
           <div>
             <button class="btn btn-danger btn-sm btn-hapus">
               <i class="bx bx-trash me-1"></i> Hapus
@@ -65,7 +65,7 @@
         </div>
         {{-- Gambar 4 --}}
         <div class="col-md-3 text-center mb-4 mt-3 image-card">
-          <img src="/dashboard/assets/img/photo/2.jpeg" alt="Preview" class="img-thumbnail mb-2" style="max-width: 100%;">
+          <img src="/main/src/assets/images/galeri4.jpg" alt="Preview" class="img-thumbnail mb-2" style="max-width: 100%;">
           <div>
             <button class="btn btn-danger btn-sm btn-hapus">
               <i class="bx bx-trash me-1"></i> Hapus
