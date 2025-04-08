@@ -192,7 +192,7 @@
 
             <!-- First Meeting -->
             <div class="timeline-event" data-aos="fade-up" data-aos-duration="1000">
-                <img src="/main/src/assets/images/first-meet.jpg" alt="The First Meet" class="timeline-image">
+                <img src="/main/src/assets/images/bertemu.jpeg" alt="The First Meet" class="timeline-image">
                 <div class="floral-decor"></div>
                 <h3>The First Meet 2023</h3>
                 <p>
@@ -204,7 +204,7 @@
 
             <!-- Engagement -->
             <div class="timeline-event" data-aos="fade-up" data-aos-duration="1000">
-                <img src="/main/src/assets/images/engagement.jpg" alt="Engagement" class="timeline-image">
+                <img src="/main/src/assets/images/lamaran.jpeg" alt="Engagement" class="timeline-image">
                 <div class="floral-decor"></div>
                 <h3>Engagement 2024</h3>
                 <p>
@@ -216,9 +216,9 @@
 
             <!-- Wedding -->
             <div class="timeline-event" data-aos="fade-up" data-aos-duration="1000">
-                <img src="/main/src/assets/images/married.jpg" alt="Married" class="timeline-image">
+                <img src="/main/src/assets/images/galeri2.jpg" alt="Married" class="timeline-image">
                 <div class="floral-decor"></div>
-                <h3>Married 2090</h3>
+                <h3>Married 2025</h3>
                 <p>
                     Hari itu tiba, ketika dua hati mengikat janji dalam kebersamaan seumur hidup. Bukan hanya tentang
                     pesta dan seremonial, tetapi tentang awal baru dan saling menggenggam, menghadapi dunia bersama,
